@@ -8,7 +8,6 @@
     padding: 36px 0;
     background-color: var(--dark-gray);
     z-index: 999;
-    height: 1000px;
     overflow-y: scroll;
 }
 
@@ -34,7 +33,7 @@
     border-bottom: unset;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     .wrapper {
         display: none;
     }

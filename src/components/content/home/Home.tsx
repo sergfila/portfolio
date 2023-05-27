@@ -24,7 +24,7 @@ export default function Content({title, subtitle, text}:PropsType) {
                     </div>
                 </div>
                 <div className={styles.btn_wrapper}>
-                    <MdBtn title='получи консультацию' />
+                    <MdBtn title='бесплатная консультация' />
                 </div>
             </div>
             <div className={styles.item}>

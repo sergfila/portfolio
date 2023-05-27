@@ -6,7 +6,7 @@
     height: 100px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .wrapper {
         height: 72px;
     }
@@ -14,7 +14,7 @@
         display: none;
     }
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     .burger_wrapper {
         display: none;
     }

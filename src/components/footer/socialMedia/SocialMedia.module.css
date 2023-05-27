@@ -2,6 +2,7 @@
     filter: grayscale(100);
     width: 28px;
     height: 28px;
+
     transition: .3s ease-in-out;
 }
 .wrapper a img:hover {
