@@ -8,7 +8,7 @@ type PropsType = {
 export default function MdBtn({title}: PropsType) {
     return (
         <div className={styles.wrapper}>
-            <a href='#'>{title}</a>
+            <a href='#contacts'>{title}</a>
         </div>
     )
 }

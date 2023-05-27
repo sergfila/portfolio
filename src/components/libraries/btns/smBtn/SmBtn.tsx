@@ -7,7 +7,7 @@ type PropsType = {
 }
 
 export default function SmBtn({title, website}: PropsType) {
-    const hrefValue = website ? website : '#'
+    const hrefValue = website ? website : '#contacts'
     const targetvalue = website ? '_blank' : ''
 
     return (
