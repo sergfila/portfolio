@@ -1,0 +1,20 @@
+.wrapper {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    margin: 48px 0;
+    font-family: 'Exo 2', sans-serif;
+}
+.wrapper span {
+    position: relative;
+}
+.wrapper span::before {
+    content: '';
+    position: absolute;
+    width: 33%;
+    height: 3px;
+    background-color: var(--green);
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

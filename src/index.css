@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: var(--dark-gray);
+    background-color: var(--lite-gray);
+    scroll-behavior: smooth;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--dark-gray);
+    transition: .3s;
+}
+
+:root {
+    --white: rgba(255, 255, 255, 1);
+    --lite-gray: rgba(249, 250, 255, 1);
+    --semi-gray: rgba(225, 226, 228, 1);
+    --gray: rgba(81, 81, 85, .4);
+    --medium-gray: rgba(100, 100, 100, 1);
+    --dark-gray: rgba(61, 61, 63, 1);
+    --orange-gradient: linear-gradient(2.79deg, rgba(243, 95, 47, 1), rgba(243, 95, 47, 0.75));
+    --orange: rgb(255, 122, 80);
+    --green: rgba(121, 226, 138, 1);
+    --blue: rgba(96, 218, 255, .4);
+    --red: rgba(243, 113, 104, 1);
+}

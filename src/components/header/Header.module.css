@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--semi-gray);
+    height: 100px;
+}
+
+@media (max-width: 768px) {
+    .wrapper {
+        height: 72px;
+    }
+    .btn_wrapper, .nav_wrapper {
+        display: none;
+    }
+}
+@media (min-width: 768px) {
+    .burger_wrapper {
+        display: none;
+    }
+}

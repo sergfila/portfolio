@@ -1,0 +1,15 @@
+.wrapper a {
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--white);
+    opacity: .85;
+    background: var(--orange-gradient);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.wrapper a:hover {
+    opacity: 1;
+    transition: .3s;
+}
