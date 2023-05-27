@@ -9,10 +9,10 @@ export default function Footer() {
             <div className={styles.item}>
                 <div className={styles.title}>Сергей Филиппов</div>
                 <div className={styles.social_container}>
-                    <SocialMedia link='https://api.whatsapp.com/send?phone=79158590661' path='whatsapp.svg' alt='whatsapp'/>
-                    <SocialMedia link='skype:sergfila?chat' path='skype.svg' alt='skype'/>
-                    <SocialMedia link='https://github.com/sergfila' path='git.svg' alt='git'/>
-                    <SocialMedia link='https://t.me/sergfila' path='telegram.svg' alt='telegram'/>
+                    <SocialMedia link='https://api.whatsapp.com/send?phone=79158590661' path='/whatsapp.svg' alt='whatsapp'/>
+                    <SocialMedia link='skype:sergfila?chat' path='/skype.svg' alt='skype'/>
+                    <SocialMedia link='https://github.com/sergfila' path='/git.svg' alt='git'/>
+                    <SocialMedia link='https://t.me/sergfila' path='/telegram.svg' alt='telegram'/>
                 </div>
                 <Navbar />
             </div>

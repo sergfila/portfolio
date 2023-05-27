@@ -16,6 +16,7 @@
 .item:first-child {
     position: relative;
     aspect-ratio: 16/9;
+    width: 100%;
 }
 .item:first-child div {
     position: absolute;

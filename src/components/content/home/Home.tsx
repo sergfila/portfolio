@@ -24,11 +24,11 @@ export default function Content({title, subtitle, text}:PropsType) {
                     </div>
                 </div>
                 <div className={styles.btn_wrapper}>
-                    <MdBtn title='Бесплатная консультация' />
+                    <MdBtn title='получи консультацию' />
                 </div>
             </div>
             <div className={styles.item}>
-                <img src={`${process.env.PUBLIC_URL}001.jpg`} alt='' />
+                <img src={`${process.env.PUBLIC_URL}/001.jpg`} alt='' />
             </div>
         </section>
     );
