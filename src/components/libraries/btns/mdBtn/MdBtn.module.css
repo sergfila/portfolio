@@ -6,6 +6,9 @@
     opacity: .85;
     background: var(--orange-gradient);
     border-radius: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .wrapper a:hover {

@@ -21,15 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="869b3cca-d1e7-4521-9023-538066932f1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/Content.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content/home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/home/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content/home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/home/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer/socialMedia/SocialMedia.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/socialMedia/SocialMedia.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobileMenu/MobileMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mobileMenu/MobileMenu.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/libraries/btns/mdBtn/MdBtn.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/libraries/btns/mdBtn/MdBtn.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/libraries/btns/smBtn/SmBtn.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/libraries/btns/smBtn/SmBtn.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/libraries/navbar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/libraries/navbar/NavBar.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
       <workItem from="1685081013507" duration="40438000" />
       <workItem from="1685170511868" duration="14230000" />
       <workItem from="1685196885104" duration="5366000" />
-      <workItem from="1685202803665" duration="2970000" />
+      <workItem from="1685202803665" duration="4473000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     column-gap: 64px;
+    justify-content: center;
 }
 .item a {
     font-size: 14px;
@@ -12,16 +13,16 @@
     color: var(--orange);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .wrapper {
         column-gap: 32px;
+        row-gap: 20px;
+    }
+    .item a {
+        font-size: 18px;
     }
 }
 @media (max-width: 576px) {
-    .wrapper {
-        flex-wrap: wrap;
-        row-gap: 20px;
-    }
     .item {
         width: 100%;
     }

@@ -7,6 +7,9 @@
     background: var(--orange-gradient);
     border-radius: 5px;
     cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .wrapper a:hover {

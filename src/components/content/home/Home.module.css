@@ -54,8 +54,7 @@
         text-align: center;
     }
     .btn_wrapper {
-        display: flex;
-        justify-content: center;
+        display: none;
     }
 }
 
