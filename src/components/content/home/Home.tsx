@@ -28,7 +28,7 @@ export default function Content({title, subtitle, text}:PropsType) {
                 </div>
             </div>
             <div className={styles.item}>
-                <img src={`${process.env.PUBLIC_URL}/001.jpg`} alt='' />
+                <img src={`${process.env.PUBLIC_URL}/001.avif`} alt='' />
             </div>
         </section>
     );
