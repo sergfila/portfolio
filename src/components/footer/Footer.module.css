@@ -26,3 +26,9 @@
     font-size: 14px;
     color: var(--medium-gray)
 }
+
+@media (max-width: 992px) {
+    .social_container {
+        gap: 28px
+    }
+}

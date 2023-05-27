@@ -7,9 +7,12 @@ type PropsType = {
 }
 
 export default function SmBtn({title, website}: PropsType) {
+    const hrefValue = website ? website : '#'
+    const targetvalue = website ? '_blank' : ''
+
     return (
         <div className={styles.wrapper}>
-            <a href={website} target='_blank'>{title}</a>
+            <a href={hrefValue} target={targetvalue}>{title}</a>
         </div>
     )
 }

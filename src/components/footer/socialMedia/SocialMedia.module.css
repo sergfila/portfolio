@@ -7,3 +7,10 @@
 .wrapper a img:hover {
     filter: grayscale(0);
 }
+
+@media (max-width: 992px) {
+    .wrapper a img {
+        width: 36px;
+        height: 36px;
+    }
+}
